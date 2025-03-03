@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# 傳送檔案上傳資料夾
+uploads/
+
+# 環境變數檔案
+.env
+
+# 系統檔案
+.DS_Store
